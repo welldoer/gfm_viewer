@@ -17,6 +17,11 @@
 
   <repositories>
     <repository>
+      <id>lambdaj-special</id>
+      <name>Lambdaj Specail Repository</name>
+      <url>http://repository.openmindonline.it/</url>
+    </repository>
+    <repository>
       <id>lambdaj</id>
       <name>Lambdaj Repository</name>
       <url>http://lambdaj.googlecode.com/svn/repo/releases/</url>
